@@ -176,7 +176,7 @@ There are three actors:
 
 ### Navigation
 
-![alt text](wireframes/Navigation.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Navigation.png)
 
 | Component | Description |
 | --- | --- |
@@ -195,7 +195,7 @@ There are three actors:
 
 #### Sign In - Customer
 
-![alt text](wireframes/Signin-Customer.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin-Customer.png)
 
 | Component | Description |
 | --- | --- |
@@ -210,7 +210,7 @@ There are three actors:
 
 #### Sign In - Manager
 
-![alt text](wireframes/Signin-Manager.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin-Manager.png)
 
 | Component | Description |
 | --- | --- |
@@ -219,7 +219,7 @@ There are three actors:
 
 ### Sign In - Admin
 
-![alt text](wireframes/Signin-Admin.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin-Admin.png)
 
 | Component | Description |
 | --- | --- |
@@ -228,7 +228,7 @@ There are three actors:
 
 ### Home Page
 
-![alt text](wireframes/Home.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Home.png)
 
 | Component | Description |
 | --- | --- |
@@ -243,7 +243,7 @@ There are three actors:
 
 ### Category Page
 
-![alt text](wireframes/Category.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Category.png)
 
 | Component | Description |
 | --- | --- |
@@ -252,7 +252,7 @@ There are three actors:
 
 ### Cart Page
 
-![alt text](wireframes/Cart.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Cart.png)
 
 | Component | Description |
 | --- | --- |
@@ -272,7 +272,7 @@ There are three actors:
 
 ### Settings Page
 
-![alt text](wireframes/Settings.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Settings.png)
 
 | Component | Description |
 | --- | --- |
@@ -286,7 +286,7 @@ There are three actors:
 
 ### Add to Cart Dialog
 
-![alt text](wireframes/AddToCartDialog.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/AddToCartDialog.png)
 
 | Component | Description |
 | --- | --- |
@@ -304,7 +304,7 @@ There are three actors:
 
 ### Call for Help Dialog
 
-![alt text](wireframes/CallForHelpDialog.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/CallForHelpDialog.png)
 
 | Component | Description |
 | --- | --- |
@@ -315,7 +315,7 @@ There are three actors:
 
 ### Sign out Dialog
 
-![alt text](wireframes/SignoutDialog.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/SignoutDialog.png)
 
 | Component | Description |
 | --- | --- |
