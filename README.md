@@ -180,8 +180,14 @@ There are three actors:
 
 | Component | Admin | Manager | Customer |
 | --- | --- | --- | --- |
-| T1 | As an admin, I shall press this button to get back | As a manager, I shall press this button to get back | As a customer, I shall press this button to get back |
-| 
+| T1 | As an admin, I shall navigate to the previous page | As a manager, I shall navigate to the previous page | As a customer, I shall navigate to the previous page |
+| T2 | As an admin, I shall open and close the navigation pane | As a manager, I shall open and close the navigation pane | As a customer, I shall open and close the navigation pane |
+| T3 | As an admin, I shall minimize the window | As a manager, I shall minimize the window | As a customer, I shall minimize the window |
+| T4 | As an admin, I shall maximize the window | As a manager, I shall maximize the window | As a customer, I shall maximize the window |
+| T5 | As an admin, I shall close the window | As a manager, I shall close the window | As a customer, I shall close the window |
+| T6 | As an admin, I shall view the contents of a page | As a manager, I shall view the contents of a page | As a customer, I shall view the contents of a page |
+| T7 | As an admin, I shall navigate to different pages | As a manager, I shall navigate to different pages | As a customer, I shall navigate to different pages |
+| T8 | As an admin, I shall navigate to settings | As a manager, I shall navigate to settings | As a customer, I shall navigate to settings |
 
 ### Sign In Page
 
@@ -189,16 +195,9 @@ There are three actors:
 
 ![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin-Customer.png)
 
-| Component | Description |
+| Component | Customer |
 | --- | --- |
-| T1 | Company name, logo and brief description |
-| T2 | Sign-in panel with input fields and options |
-| T3 | Dropdown to select the sign-in role (e.g., Customer) |
-| T4 | Title indicating the current sign-in role (e.g., "Sign in as Customer") |
-| T5 | Input field to enter the table ID |
-| T6 | Checkbox to keep the user signed in |
-| T7 | Login button to submit the sign-in form |
-| T8 | Link or button to "Learn more" about the sign-in process |
+| T1 | I
 
 #### Sign In - Manager
 
