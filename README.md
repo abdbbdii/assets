@@ -189,6 +189,16 @@ There are three actors:
 | T7 | As an admin, I shall navigate to different pages | As a manager, I shall navigate to different pages | As a customer, I shall navigate to different pages |
 | T8 | As an admin, I shall navigate to settings | As a manager, I shall navigate to settings | As a customer, I shall navigate to settings |
 
+### Settings Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Settings.png)
+
+| Component | Admin | Manager | Customer |
+| --- | --- |
+| T1 | As an admin, I shall use radio buttons to select the theme (Light, Dark, Default). | As a manager, I shall use radio buttons to select the theme (Light, Dark, Default). | As a customer, I shall use radio buttons to select the theme (Light, Dark, Default). |
+| T2 | As an admin, I shall have a button to sign out of the application. | As a manager, I shall have a button to sign out of the application. | As a customer, I shall have a button to sign out of the application. |
+| T3 | As an admin, I shall have a link to the privacy policy. | As a manager, I shall have a link to the privacy policy. | As a customer, I shall have a link to the privacy policy. |
+
 ### Sign In Page
 
 ![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin.png)
@@ -204,105 +214,195 @@ There are three actors:
 
 ### Home Page
 
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Home.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Customer-Home.png)
 
 | Component | Customer |
 | --- | --- |
 | T1 | As a customer, I shall see a Call for Help button. |
 | T2 | As a customer, I shall browse a Carousel of Deals by swiping to left or right |
 | T3 | As a customer, I shall scroll through Top Trending Items. |
-| T4 | As a customer, I shall scroll through Top Rated Items. |
+| T4 | As a customer, I shall scroll through Top Rated Items.
+| T5 | As a customer, I shall tap to check out a deal. |
+| T6 | As a customer, I shall tap to view more details of a deal. |
+| T7 | As a customer, I shall tap to add an item to the cart. |
+| T8 | As a customer, I shall tap to discover more via links to different pages. |
 
-| T5 | As a customer, I shall check out a deal by clicking on it. |
-| T5 | As a customer, I shall discover more via links to different pages. |
-| T6 | As a customer, I shall view a portrait card with image, price, and add to cart option. |
-| T7 | As a customer, I shall see a landscape card with image, price, and add to cart option. |
-| T8 | As a customer, I shall navigate using Discover More cards to specific categories. |
 ### Category Page
 
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Category.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Customer-Category.png)
 
-| Component | Description |
+| Component | Customer |
 | --- | --- |
-| T1 | Subcategory name |
-| T2 | Scrollable cards displaying items with images, titles, prices, and buttons to add to cart, related to the subcategory |
+| T1 | As a customer, I shall scroll through the list of items in the subcategory. |
 
 ### Cart Page
 
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Cart.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Customer-Cart.png)
 
-| Component | Description |
+| Component | Customer |
 | --- | --- |
-| T1 | List of items that are in the cart but not yet ordered |
-| T2 | List of items that are already ordered |
-| T3 | Order history section with a list of past orders |
-| T4 | Headings for each section |
-| T5 | Description for each section |
-| T6 | Card for each item in the cart with image, title, price, quantity, and button to remove |
-| T7 | Button to complete the pending order highlighting the total price |
-| T8 | Label in T1: "Complete pending order" |
-| T9 | Bin icon to remove an item from the cart. Appears when item has not been ordered yet |
-| T10 | Label: "Ready" for items that have been ordered |
-| T11 | Label displaying the estimated time for the order to be ready |
-| T12 | Button to write a review for the ordered item |
-| T13 | Rating stars for the ordered item that have been reviewed |
-
-### Settings Page
-
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Settings.png)
-
-| Component | Description |
-| --- | --- |
-| T1 | Headings for each section |
-| T2 | Description for each section |
-| T3 | Radio buttons to select the theme (e.g., Light, Dark, Default) |
-| T4 | Button to sign out of the application |
-| T5 | Label displaying the application name and version |
-| T6 | Label displaying the application description |
-| T7 | Link to the privacy policy |
+| T1 | As a customer, I shall see a list of items in my cart that are not yet ordered. |
+| T2 | As a customer, I shall view a list of items that are already ordered. |
+| T3 | As a customer, I shall access my order history with a list of past orders. |
+| T4 | As a customer, I shall have a bin icon to remove an item that has not been ordered yet. |
+| T5 | As a customer, I shall have a button to complete my pending order, displaying the total price. |
+| T6 | As a customer, I shall have a button to write a review for an ordered item. |
 
 ### Add to Cart Dialog
 
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/AddToCartDialog.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Customer-AddToCartDialog.png)
 
-| Component | Description |
+| Component | Customer |
 | --- | --- |
-| T1 | Dialog box containing the item details, several options, and buttons |
-| T2 | Item details: image, title, price, description, and rating |
-| T3 | Radio buttons to select the size of the item e.g., Small, Medium, Large |
-| T4 | Plus and minus buttons to adjust the quantity of the item |
-| T5 | Radio buttons to allow toppings e.g., No, Yes |
-| T6 | Multiple selectable cards to choose toppings |
-| T7 | Card displaying the topping image, name and price |
-| T8 | Label displaying the total price of the item |
-| T9 | Label displaying the estimated time for the order to be ready |
-| T10 | Button to add the item to the cart |
-| T11 | Button to cancel and close the dialog |
+| T1 | As a customer, I shall select the item size (Small, Medium, Large). |
+| T2 | As a customer, I shall adjust the quantity of the item using plus and minus buttons. |
+| T3 | As a customer, I shall select toppings using radio buttons (No, Yes). |
+| T4 | As a customer, I shall tap to select a card of topping. |
+| T5 | As a customer, I shall choose toppings from multiple selectable cards. |
+| T6 | As a customer, I shall have a button to add the item to my cart. |
+| T7 | As a customer, I shall have a button to cancel and close the dialog. |
 
 ### Call for Help Dialog
 
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/CallForHelpDialog.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Customer-CallForHelpDialog.png)
 
-| Component | Description |
+| Component | Customer |
 | --- | --- |
-| T1 | Header with the title "Calling for Help..." |
-| T2 | Description of the call for help process |
-| T3 | Image of a bell icon to indicate the call for help |
-| T4 | Button to cancel the call for help |
+| T1 | As a customer, I shall use cancel button to close the dialog. |
 
 ### Sign out Dialog
 
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/SignoutDialog.png)
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Customer-SignoutDialog.png)
 
-| Component | Description |
+| Component | Customer |
+| --- | --- | --- |
+| T1 | As a customer, I shall call the manager to enter the password. |
+| T2 | As a customer, I shall enter the manager's password. |
+
+### Deal Details Dialog
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Customer-DealDetailsDialog.png)
+
+| Component | Customer |
 | --- | --- |
-| T1 | Header with the title "Sign out" |
-| T2 | Label asking for manager's password to sign out |
-| T3 | Input field to enter the manager's password |
-| T4 | Button to confirm the sign out |
-| T5 | Button to cancel the sign out |
+| T1 | As a customer, I shall tap to cancel the dialog. |
 
-## TODO Wireframes: create wireframes for all the pages and components of the system
+### Rate Item Dialog
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Customer-RateItemDialog.png)
+
+| Component | Customer |
+| --- | --- |
+| T1 | As a customer, I shall tap to rate the item. |
+| T2 | As a customer, I shall tap to close the dialog. |
+| T3 | As a customer, I shall tap to submit the rating. |
+
+### Orders Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Manager-Orders.png)
+
+| Component | Manager |
+| --- | --- |
+| T1 | As a manager, I shall use this button to select all items. |
+| T2 | As a manager, I shall use this button to deselect all items. |
+| T3 | As a manager, I shall use this button close the selected items. |
+| T4 | As a manager, I shall order the items by any of the columns. |
+| T5 | As a manager, I shall search for specific items by any of the columns. |
+| T6 | As a manager, I shall use this button clear the search results. |
+| T7 | As a manager, I shall use this button to search for items. |
+| T8 | As a manager, I shall change the status of the item to "Ready", "Completed", or "In Progress". |
+| T9 | As a manager, I shall see a grid view of all items. |
+| T10 | As a manager, I shall select an item |
+
+### History Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Manager-History.png)
+
+| Component | Manager |
+| --- | --- |
+| T1 | As a manager, I shall pick a date to view the history of orders. |
+| T2 | As a manager, I shall use this button to clear the selected date. |
+
+### Menu Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Manager-Menu.png)
+
+| Component | Manager |
+| --- | --- |
+| T1 | As a manager, I shall use this button to mark an item as in-stock |
+| T2 | As a manager, I shall use this button to mark an item as out-of-stock |
+
+### Accounts Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Admin-Accounts.png)
+
+| Component | Admin |
+| --- | --- |
+| T1 | As an admin, I shall use this button to add a new account. |
+| T2 | As an admin, I shall use this button to remove an existing account. |
+| T3 | As an admin, I shall use this button to update an existing account. |
+| T4 | As an admin, I shall use this button to write a custom query. |
+
+### Branches Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Admin-Branches.png)
+
+| Component | Admin |
+| --- | --- |
+| T1 | As an admin, I shall use this button to add a new branch. |
+| T2 | As an admin, I shall use this button to remove an existing branch. |
+| T3 | As an admin, I shall use this button to update an existing branch. |
+
+### Tables Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Admin-Tables.png)
+
+| Component | Admin |
+| --- | --- |
+| T1 | As an admin, I shall use this button to add a new table. |
+| T2 | As an admin, I shall use this button to remove an existing table. |
+| T3 | As an admin, I shall use this button to update an existing table. |
+
+### Products Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Admin-Products.png)
+
+| Component | Admin |
+| --- | --- |
+| T1 | As an admin, I shall use this button to add a new product. |
+| T2 | As an admin, I shall use this button to remove an existing product. |
+| T3 | As an admin, I shall use this button to update an existing product. |
+
+### Deals Page
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Admin-Deals.png)
+
+| Component | Admin |
+| --- | --- |
+| T1 | As an admin, I shall use this button to add a new deal. |
+| T2 | As an admin, I shall use this button to remove an existing deal. |
+| T3 | As an admin, I shall use this button to update an existing deal. |
+| T4 | As an admin, I shall use this button to edit the deal items. |
+
+### Deal Items Dialog
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Admin-DealItemsDialog.png)
+
+| Component | Admin |
+| --- | --- |
+| T1 | As an admin, I shall use this button to add a new item to the deal. |
+| T2 | As an admin, I shall use this button to remove an existing item from the deal. |
+| T3 | As an admin, I shall use this button to close the dialog. |
+
+### Write custom query Dialog
+
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Admin-WriteCustomQueryDialog.png)
+
+| Component | Admin |
+| --- | --- |
+| T1 | As an admin, I shall write a custom query. |
+| T2 | As an admin, I shall use this button to execute the query. |
+| T3 | As an admin, I shall use this button to close the dialog. |
 
 ## Use Cases
 
