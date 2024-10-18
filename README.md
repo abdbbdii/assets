@@ -191,31 +191,10 @@ There are three actors:
 
 ### Sign In Page
 
-#### Sign In - Customer
+![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin.png)
 
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin-Customer.png)
+| Component | Admin | Manager | Customer |
 
-| Component | Customer |
-| --- | --- |
-| T1 | I
-
-#### Sign In - Manager
-
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin-Manager.png)
-
-| Component | Description |
-| --- | --- |
-| T1 | Input field to enter the manager's username |
-| T2 | Input field to enter the manager's password |
-
-### Sign In - Admin
-
-![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin-Admin.png)
-
-| Component | Description |
-| --- | --- |
-| T1 | Input field to enter the admin's username |
-| T2 | Input field to enter the admin's password |
 
 ### Home Page
 
