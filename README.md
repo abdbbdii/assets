@@ -178,18 +178,10 @@ There are three actors:
 
 ![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Navigation.png)
 
-| Component | Description |
-| --- | --- |
-| T1 | Back button to return to the previous page |
-| T2 | Icon navigation pane with various categories |
-| T3 | Application title: "Automated Menu Ordering System" |
-| T4 | Minimize window button |
-| T5 | Maximize/Restore window button |
-| T6 | Close window button |
-| T7 | Page name indicating the current page |
-| T8 | Main content area for page content |
-| T9 | Navigation icons for different categories (e.g., Home, Cart) |
-| T10 | Settings icon at the bottom of the navigation pane |
+| Component | Admin | Manager | Customer |
+| --- | --- | --- | --- |
+| T1 | As an admin, I shall press this button to get back | As a manager, I shall press this button to get back | As a customer, I shall press this button to get back |
+| 
 
 ### Sign In Page
 
