@@ -193,24 +193,31 @@ There are three actors:
 
 ![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Signin.png)
 
-| Component | Admin | Manager | Customer |
-
+| Component | Admin | Manager |
+| --- | --- | --- |
+| T1 | As an admin, I shall change the role to manager or customer | As a manager, I shall change the role to admin or customer |
+| T2 | As an admin, I shall enter the username | As a manager, I shall enter the username or table ID |
+| T3 | As an admin, I shall enter the password | As a manager, I shall enter the password |
+| T4 | As an admin, I shall check the "Keep me signed in" box | As a manager, I shall check the "Keep me signed in" box |
+| T5 | As an admin, I shall go to learn more | As a manager, I shall go to learn more |
+| T6 | As an admin, I shall sign in | As a manager, I shall sign in |
 
 ### Home Page
 
 ![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Home.png)
 
-| Component | Description |
+| Component | Customer |
 | --- | --- |
-| T1 | Call for help button |
-| T2 | Carousel of Deals and Promotions containing images, titles, and descriptions, prices and buttons to view more details and check out |
-| T3 | Top Trending Items section with scrollable cards |
-| T4 | Top Rated Items section with scrollable cards |
-| T5 | Discover More section with links to different pages |
-| T6 | Portrait card displaying image, title, description, price, and button to add to cart |
-| T7 | Landscape card displaying image, title, price, and button to add to cart |
-| T8 | Discover More card displaying image, title and description to navigate to a specific category page |
+| T1 | As a customer, I shall see a Call for Help button. |
+| T2 | As a customer, I shall browse a Carousel of Deals by swiping to left or right |
+| T3 | As a customer, I shall scroll through Top Trending Items. |
+| T4 | As a customer, I shall scroll through Top Rated Items. |
 
+| T5 | As a customer, I shall check out a deal by clicking on it. |
+| T5 | As a customer, I shall discover more via links to different pages. |
+| T6 | As a customer, I shall view a portrait card with image, price, and add to cart option. |
+| T7 | As a customer, I shall see a landscape card with image, price, and add to cart option. |
+| T8 | As a customer, I shall navigate using Discover More cards to specific categories. |
 ### Category Page
 
 ![alt text](https://raw.githubusercontent.com/abdbbdii/assets/refs/heads/main/wireframes/Category.png)
